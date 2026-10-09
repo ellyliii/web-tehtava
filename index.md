@@ -10,19 +10,19 @@ I **will** complete these lessons!
 
 Headers:
 
-#Header one
+# Header one
 
-##Header two
+## Header two
 
-###Header three
+### Header three
 
-####Header four
+#### Header four
 
-#####Header five
+##### Header five
 
-######Header six
+###### Header six
 
-####Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 Here's some words about the book _One Hundred Years..._.
 
 Links:
@@ -31,7 +31,7 @@ Links:
 
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
-####The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
 
@@ -44,6 +44,7 @@ Well, do I have [the website for you][another fun place]!
 Images:
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
 ![Black cat][Black]
 
 ![Orange cat][Orange]
